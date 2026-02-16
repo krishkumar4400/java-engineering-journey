@@ -14,5 +14,7 @@ public class HelloWorld {
         System.out.printf("%f is float", 11.945).println();
         System.out.println("5+5="+5+5);
         System.out.println("5+5 = " + 5+5);
+        System.out.print("first line");
+        System.out.print("second line");
     }
 }
